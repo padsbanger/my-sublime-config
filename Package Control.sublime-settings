@@ -1,0 +1,22 @@
+{
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "AutoFileName",
+    "Color Highlighter",
+    "ColorPicker",
+    "Emmet",
+    "GitGutter",
+    "HTML-CSS-JS Prettify",
+    "HTML5",
+    "Package Control",
+    "ReactJS",
+    "SideBarEnhancements",
+    "SublimeLinter",
+    "SublimeLinter-jshint",
+    "Theme - Afterglow"
+  ]
+}
+
