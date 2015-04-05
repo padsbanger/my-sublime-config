@@ -2,7 +2,7 @@
   "caret_extra_width": 1,
   "caret_style": "phase",
   "close_windows_when_empty": false,
-  "color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
+  "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
   "copy_with_empty_selection": true,
   "detect_slow_plugins": false,
   "drag_text": false,
@@ -29,7 +29,7 @@
   "tab_size": 2,
   "tabs_medium": true,
   "tabs_padding_medium": true,
-  "theme": "Afterglow.sublime-theme",
+  "theme": "Afterglow-blue.sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
   "word_wrap": true
