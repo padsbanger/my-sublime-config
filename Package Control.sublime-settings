@@ -11,12 +11,14 @@
     "GitGutter",
     "HTML-CSS-JS Prettify",
     "HTML5",
+    "LESS",
+    "Markdown Preview",
     "Package Control",
     "ReactJS",
     "SideBarEnhancements",
     "SublimeLinter",
     "SublimeLinter-jshint",
+    "SublimeLinter-jsxhint",
     "Theme - Afterglow"
   ]
 }
-
