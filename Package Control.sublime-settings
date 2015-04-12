@@ -5,10 +5,12 @@
   "installed_packages":
   [
     "AutoFileName",
+    "BracketHighlighter",
     "Color Highlighter",
     "ColorPicker",
     "Emmet",
     "GitGutter",
+    "HTML Boilerplate",
     "HTML-CSS-JS Prettify",
     "HTML5",
     "LESS",
