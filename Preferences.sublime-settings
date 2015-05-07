@@ -2,7 +2,7 @@
   "caret_extra_width": 1,
   "caret_style": "phase",
   "close_windows_when_empty": false,
-  "color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
+  "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
   "copy_with_empty_selection": true,
   "detect_slow_plugins": false,
   "drag_text": false,
