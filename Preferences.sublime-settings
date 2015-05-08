@@ -32,5 +32,6 @@
   "theme": "Afterglow-magenta.sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
+  "status_bar_brighter": true,
   "word_wrap": true
 }
